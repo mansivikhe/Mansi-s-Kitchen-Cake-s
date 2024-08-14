@@ -1,0 +1,116 @@
+.text-primary {
+    text-align: center;
+    margin: 30px auto;
+    font-size: 40px;
+    font-family: Josefin Sans;
+    color: #fffffe;
+
+}
+
+body {
+    background-color: #0f0e17;
+    margin: 0px;
+    padding: 0px;
+}
+
+.link-container {
+    color: #ff8906;
+    display: flex;
+    justify-content: center;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    justify-content: space-around;
+
+
+}
+
+.primary-img {
+    margin: 0px 10px;
+    box-shadow: 0px 0px 15px 0px #fffffe;
+}
+
+.cake-card {
+    margin: 20px auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 0px #fffffe;
+
+}
+
+.cake-cards-container {
+    display: flex;
+    justify-content: space-around;
+    color: #ff8906;
+    font-family:Josefin Sans ;
+    font-size: 15px;
+}
+.text-secondary{
+    text-align: center;
+    color:#e53170 ;
+}
+.secondary-cake-card{
+    margin: 10px auto;
+    margin-right: 20px;
+    
+    
+}
+.cake-cards-container2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+    
+    border-radius: 50px;
+    
+}
+.font-size-max{
+    font-size: 25px;
+   
+}
+.shop-now-btn{
+    height: 40px;
+    width: 160px;
+    font-family:Josefin Sans;
+    font-weight: bold;font-size: 20px;
+    cursor: pointer;
+    background-color: #e53170;
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top: 30px;
+
+}
+.shop-now-btn:hover{
+    background-color: #ff8906;
+    height: 40px;
+    width: 200px;
+    transition: 1s;
+}
+.footer{
+    height: 90px;
+    width: auto;
+    background-color: #ff8906;
+    margin-top: 20px;
+    
+    
+   
+    
+}
+.footer-icon{
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    
+   
+
+}
+.text-color-black{
+    color: black;
+    margin-top: 10px;
+    font-size: 20px;
+    align-items: center;
+    font-weight: bold;
+    padding: 30px;
+}
