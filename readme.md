@@ -11,4 +11,12 @@ Welcome to theMansi's Kitchen & Cake's  Shop Website! This website is designed t
 ![index page](./img/sc3.png)
 ![index page](./img/sc4.png)
 ![index page](./img/sc5.png)
+---
+
+## Contact
+For any questions or feedback, please contact us at:
+
+**-Email:** mansivikhe0017@gmail.com
+
+**- Netlify Link:** https://royalcakes.netlify.app
 
